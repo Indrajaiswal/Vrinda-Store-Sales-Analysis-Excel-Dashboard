@@ -1,4 +1,4 @@
-# Indrajaiswal-Vrinda-Store-Sales-Analysis-Excel-Dashboard
+# Vrinda-Store-Sales-Analysis-Excel-Dashboard
 
 
 
