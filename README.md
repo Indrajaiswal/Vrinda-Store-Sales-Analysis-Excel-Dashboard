@@ -17,3 +17,7 @@
    Maharashtra, Karnataka and Utter Pradeh by showing 
    ads/offer/coupons avalable on Amazon, Flipkart and Myntra
 
+  ## Dashboard Preview
+
+![Vrinda Store Sales Dashboard](1.png)
+
